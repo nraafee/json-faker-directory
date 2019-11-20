@@ -1,14 +1,14 @@
 {
   "profiles": [
     {"no": 1, "name": "john", "age": 34, "city": "VA"},
-  {"no": 2, "name": "Helium", "age": 34, "city": "VA"},
-  {"no": 3, "name": "jacob", "age": 34, "city": "VA"},
-  {"no": 4, "name": "david", "age": 34, "city": "VA"},
-  {"no": 5, "name": "jonathan", "age": 34, "city": "GA"},
-  {"no": 6, "name": "philips", "age": 32, "city": "GA"},
-  {"no": 7, "name": "jack", "age": 23, "city": "TX"},
-  {"no": 8, "name": "harry", "age": 44, "city": "NY"},
-  {"no": 9, "name": "felin", "age": 38, "city": "NJ"},
-  {"no": 10, "name": "Neon", "age": 20, "city": "NY"}
+    {"no": 2, "name": "Helium", "age": 34, "city": "VA"},
+    {"no": 3, "name": "jacob", "age": 34, "city": "VA"},
+    {"no": 4, "name": "david", "age": 34, "city": "VA"},
+    {"no": 5, "name": "jonathan", "age": 34, "city": "GA"},
+    {"no": 6, "name": "philips", "age": 32, "city": "GA"},
+    {"no": 7, "name": "jack", "age": 23, "city": "TX"},
+    {"no": 8, "name": "harry", "age": 44, "city": "NY"},
+    {"no": 9, "name": "felin", "age": 38, "city": "NJ"},
+    {"no": 10, "name": "Neon", "age": 20, "city": "NY"}
   ]
 }
